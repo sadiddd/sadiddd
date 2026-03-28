@@ -1,6 +1,7 @@
 Hey, my name is Sadid Karami, and I'm a 3rd year Computer Science Major at the University of Calgary. I've got experience in software development, data analysis and visualization, databases, and cloud development. Feel free to look through my projects and you can reach me via email or LinkedIn!
 
 Languages:
+
 <p align="left">
   <img src="assets/languages/python.svg" alt="Python" width="60" height="60" />
   <img src="assets/languages/c.svg" alt="C" width="60" height="60" />
@@ -19,12 +20,13 @@ Frameworks:
   <img src="assets/frameworks/react.svg" alt="React" width="60" height="60" />
   <img src="assets/frameworks/tailwind.svg" alt="Tailwind CSS" width="60" height="60" />
   <img src="assets/frameworks/express.svg" alt="Express" width="60" height="60" />
+  <img src="assets/frameworks/fastapi.svg" alt="FastAPI" width="60" height="60" />
 </p>
 
 Technologies:
 
 <p align="left">
-  <img src="assets/technologies/aws.png" alt="AWS" width="60" height="60" />
+  <img src="assets/technologies/aws.svg" alt="AWS" width="60" height="60" />
   <img src="assets/technologies/docker.svg" alt="Docker" width="60" height="60" />
   <img src="assets/technologies/postgres.svg" alt="PostgreSQL" width="60" height="60" />
   <img src="assets/technologies/mongodb.svg" alt="MongoDB" width="60" height="60" />
