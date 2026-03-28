@@ -19,8 +19,8 @@ Frameworks:
   <img src="assets/frameworks/node.svg" alt="Node.js" width="60" height="60" />
   <img src="assets/frameworks/react.svg" alt="React" width="60" height="60" />
   <img src="assets/frameworks/tailwind.svg" alt="Tailwind CSS" width="60" height="60" />
-  <img src="assets/frameworks/express.svg" alt="Express" width="60" height="60" />
   <img src="assets/frameworks/fastapi.svg" alt="FastAPI" width="60" height="60" />
+  <img src="assets/frameworks/express.svg" alt="Express" width="60" height="60" />
 </p>
 
 Technologies:
