@@ -16,6 +16,7 @@ Languages:
 Frameworks:
 
 <p align="left">
+  <img src="assets/frameworks/springboot.svg" alt="Spring Boot" width="70" height="70" />
   <img src="assets/frameworks/node.svg" alt="Node.js" width="70" height="70" />
   <img src="assets/frameworks/react.svg" alt="React" width="70" height="70" />
   <img src="assets/frameworks/tailwind.svg" alt="Tailwind CSS" width="70" height="70" />
