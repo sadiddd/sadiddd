@@ -37,4 +37,5 @@ Technologies:
   <img src="assets/technologies/gitlab.svg" alt="GitLab" width="70" height="70" />
   <img src="assets/technologies/linux.svg" alt="Linux" width="70" height="70" />
   <img src="assets/technologies/vscode.svg" alt="VS Code" width="70" height="70" />
+  <img src="assets/technologies/salesforce.svg" alt="Salesforce" width="70" height="70" />
 </p>
