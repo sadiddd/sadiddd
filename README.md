@@ -4,8 +4,8 @@ Languages:
 
 <p align="left">
   <img src="assets/languages/python.svg" alt="Python" width="70" height="70" />
-  <img src="assets/languages/c.svg" alt="C" width="70" height="70" />
   <img src="assets/languages/java.svg" alt="Java" width="70" height="70" />
+  <img src="assets/languages/c.svg" alt="C" width="70" height="70" />
   <img src="assets/languages/javascript.svg" alt="JavaScript" width="70" height="70" />
   <img src="assets/languages/typescript.svg" alt="TypeScript" width="70" height="70" />
   <img src="assets/languages/html.svg" alt="HTML" width="70" height="70" />
